@@ -1,0 +1,15 @@
+<StackLayout class="home-panel form input-field">
+	<Label text="Store and retrieve data locally by using Application Settings (similar to 'local storage' on the web)." textWrap="true"
+	 class="lbl"></Label>
+
+	<!-- store/retrieve number -->
+	<Label text="From" class="heading"></Label>
+	<TextField [(ngModel)]="origin" hint="Your Location" class="input input-border" ></TextField>
+	<Label text=" " class="lbl"></Label>
+	<!-- store/retrieve number -->
+	<Label text="To" class="heading"></Label>
+	<TextField [(ngModel)]="destination" hint="Destination" class="input input-border" ></TextField>
+	<Label text=" " class="lbl"></Label>
+	<Button text="Payment Estimatation" (tap)="getDistanceCalculation()" class="btn btn-primary"></Button>
+
+</StackLayout>
