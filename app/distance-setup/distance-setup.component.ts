@@ -3,9 +3,7 @@ import { PageRoute, RouterExtensions } from "nativescript-angular/router";
 import { GooglePlacesAutocomplete } from 'nativescript-google-places-autocomplete';
 import { ActivatedRoute } from "@angular/router";
 import { DistanceSetupsService } from "./distance-setup.service";
-import { RadAutoCompleteTextViewComponent } from "nativescript-ui-autocomplete/angular/autocomplete-directives";
 import { from } from 'rxjs';
-import 'rxjs/add/observable/of';
 
 @Component({
 	selector: "DistanceSetup",
@@ -18,8 +16,9 @@ export class DistanceSetupComponent {
 	userName;
 	origin;
 	destination;
+	originId;
+	destinationId;
 	places = [];
-	@ViewChild("autocomplete") autocomplete: RadAutoCompleteTextViewComponent;
 
 	private googlePlacesAtutoComplete: GooglePlacesAutocomplete;
 	constructor(private distanceSetupService: DistanceSetupsService,private route: ActivatedRoute) {
@@ -56,9 +55,9 @@ export class DistanceSetupComponent {
 	}
 
 	getDistanceCalculation(){		
-		
+
 		//origin=place_id:ChIJ3S-JXmauEmsRUcIaWtf4MzE
-		this.distanceSetupService.getDistanceSetup(this.origin, this.destination)
+		this.distanceSetupService.getDistanceSetup(this.originId, this.destinationId)
 		.subscribe(
 			data => {
 			  console.log(data);
@@ -70,8 +69,23 @@ export class DistanceSetupComponent {
 		  );
 	}
 
-	 public onDidAutoComplete(args) {
-        console.log(args.text);
+	 selectAddressOrigin(){
+		 // assign address text to origin
+
+		 // assign placeId to originId
+
+		 // clear places array
+
+	 }
+
+	 selectAddressDestination(){
+
+		// assign address text to origin
+
+		 // assign placeId to originId
+
+		 // clear places array
+
 	}
 	
 

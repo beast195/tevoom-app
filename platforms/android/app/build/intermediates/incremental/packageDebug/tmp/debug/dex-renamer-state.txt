@@ -1,4 +1,0 @@
-#Fri Nov 16 09:07:04 CAT 2018
-base.0=C\:\\Users\\mbuso\\Desktop\\new-app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

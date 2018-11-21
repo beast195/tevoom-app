@@ -6,15 +6,9 @@
 	<Label text="From" class="heading"></Label>
 	<TextField [(ngModel)]="origin" hint="Your Location" class="input input-border" (textChange)="autoCompletePlaceO($event)" ></TextField>
 	<Label text=" " class="lbl"></Label>
-	<!-- <RadAutoCompleteTextView #autocomplete [items]="places" textChanged="autoCompletePlaceO($event)" suggestMode="Suggest" (didAutoComplete)="onDidAutoComplete($event)" displayMode="Plain">
-        <SuggestionView tkAutoCompleteSuggestionView>
-            <ng-template tkSuggestionItemTemplate let-item="item">
-                <StackLayout orientation="vertical" padding="10">
-                    <Label [text]="item.description"></Label>
-                </StackLayout>
-            </ng-template>
-        </SuggestionView>
-    </RadAutoCompleteTextView> -->
+	<!-- <StackLayout>
+		<Label *ngFor="let addrs of theseAdreses" text=" " class="lbl" (tap)="selectAddress(id)"></Label>
+	</StackLayout> -->
 	<!-- store/retrieve number -->
 	<Label text="To" class="heading"></Label>
 	<TextField [(ngModel)]="destination" hint="Destination" (textChange)="autoCompletePlaceD($event)" class="input input-border" ></TextField>
