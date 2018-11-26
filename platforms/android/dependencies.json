@@ -1,0 +1,74 @@
+[
+    {
+        "name": "@progress-nativechat/nativescript-nativechat",
+        "directory": "..\\..\\node_modules\\@progress-nativechat\\nativescript-nativechat"
+    },
+    {
+        "name": "kinvey-nativescript-sdk",
+        "directory": "..\\..\\node_modules\\kinvey-nativescript-sdk"
+    },
+    {
+        "name": "nativescript-accelerometer",
+        "directory": "..\\..\\node_modules\\nativescript-accelerometer"
+    },
+    {
+        "name": "nativescript-angular",
+        "directory": "..\\..\\node_modules\\nativescript-angular"
+    },
+    {
+        "name": "nativescript-background-http",
+        "directory": "..\\..\\node_modules\\nativescript-background-http"
+    },
+    {
+        "name": "nativescript-camera",
+        "directory": "..\\..\\node_modules\\nativescript-camera"
+    },
+    {
+        "name": "nativescript-fresco",
+        "directory": "..\\..\\node_modules\\nativescript-fresco"
+    },
+    {
+        "name": "nativescript-geolocation",
+        "directory": "..\\..\\node_modules\\nativescript-geolocation"
+    },
+    {
+        "name": "nativescript-google-places-autocomplete",
+        "directory": "..\\..\\node_modules\\nativescript-google-places-autocomplete"
+    },
+    {
+        "name": "nativescript-imagepicker",
+        "directory": "..\\..\\node_modules\\nativescript-imagepicker"
+    },
+    {
+        "name": "nativescript-intl",
+        "directory": "..\\..\\node_modules\\nativescript-intl"
+    },
+    {
+        "name": "nativescript-iqkeyboardmanager",
+        "directory": "..\\..\\node_modules\\nativescript-iqkeyboardmanager"
+    },
+    {
+        "name": "nativescript-social-share",
+        "directory": "..\\..\\node_modules\\nativescript-social-share"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "..\\..\\node_modules\\nativescript-theme-core"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "..\\..\\node_modules\\tns-core-modules"
+    },
+    {
+        "name": "nativescript-sqlite",
+        "directory": "..\\..\\node_modules\\nativescript-sqlite"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "..\\..\\node_modules\\nativescript-permissions"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "..\\..\\node_modules\\tns-core-modules-widgets"
+    }
+]

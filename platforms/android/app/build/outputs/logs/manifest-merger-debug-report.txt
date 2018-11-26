@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\hawk-2.0.1.aar\373959500410c6b30aad0316c0aafa5c\AndroidManifest.xml:2:1-8:12
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\5111c9f44086cf1713db0673b8503a40\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\1758fb707c5b6959208fc52697c2ad64\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\e0dd619d3d45ff2ba0111910b4f9305a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b36f9d4a4cb037f710b2060f3089b8d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\7647c168cbee79d705d9addd1ed3123f\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\3ff2cd66d7a30aee2e87cc45b38ff125\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\485b76e06c4f5b408a3a0fd3c1ad5e4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b4a811045cef3998ef11242811726cd5\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\70b5613903706055608c057f78613efc\AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:2:1-24:12
+MERGED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:2:1-23:12
+MERGED from [:processors-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\processors-release.aar\fd77f75ac427f7173b441baac6a3aff6\AndroidManifest.xml:2:1-12:12
+MERGED from [:nativescript_geolocation:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\04965c7f62e988775cf97dfb16894d32\AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_google_places_autocomplete:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_google_places_autocomplete.aar\1dbd021f4495fc753ed24a6a08276e88\AndroidManifest.xml:2:1-9:12
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:2:1-21:12
+MERGED from [:widgets-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\a4303558489ec80158b6b60053295e40\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\conceal-1.1.3.aar\67b02cfd6e472e4319917248a65a6c3b\AndroidManifest.xml:7:1-16:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\215e8c6be3aac5f15fc1cd84425113fe\AndroidManifest.xml:17:1-26:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\34c384caa246d5a23f95e2e12460d206\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\843cf974dc42f11156ddb3073d51530a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\639478d67015d806a1227d9f7db17e9c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3814311944de7a20d6df15abd699166a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d1bff12527b9f5f6b4c95041a9fbafba\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c445cc428aeb49aa95c7db07563b9de1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\4536b6efc167c5ecec9c648aee5071e3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\26efefdf6706652e0857cef056b42cb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\a9153c2a8f793ce0e25cafe8bba40d87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4a94dd3e1bda55d9779d7fae7f1e801c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\9049d4bdc75b8e1a01d662399b7f37d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61f0bc2b7cd16101bd830c1bcab8257c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\08a99f65490aed550c06e20d875012d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2b35ad2d2a94a91aae64e991dc139415\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cec6f654bbc1fe1f841e52dfadf979c7\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:3:2-36
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\hawk-2.0.1.aar\373959500410c6b30aad0316c0aafa5c\AndroidManifest.xml:6:5-44
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\hawk-2.0.1.aar\373959500410c6b30aad0316c0aafa5c\AndroidManifest.xml:6:5-44
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\5111c9f44086cf1713db0673b8503a40\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\5111c9f44086cf1713db0673b8503a40\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\1758fb707c5b6959208fc52697c2ad64\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\1758fb707c5b6959208fc52697c2ad64\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\e0dd619d3d45ff2ba0111910b4f9305a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\e0dd619d3d45ff2ba0111910b4f9305a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b36f9d4a4cb037f710b2060f3089b8d3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b36f9d4a4cb037f710b2060f3089b8d3\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\7647c168cbee79d705d9addd1ed3123f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\7647c168cbee79d705d9addd1ed3123f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\3ff2cd66d7a30aee2e87cc45b38ff125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\3ff2cd66d7a30aee2e87cc45b38ff125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\485b76e06c4f5b408a3a0fd3c1ad5e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\485b76e06c4f5b408a3a0fd3c1ad5e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b4a811045cef3998ef11242811726cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b4a811045cef3998ef11242811726cd5\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\70b5613903706055608c057f78613efc\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\70b5613903706055608c057f78613efc\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:7:5-47
+MERGED from [:processors-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\processors-release.aar\fd77f75ac427f7173b441baac6a3aff6\AndroidManifest.xml:8:5-10:41
+MERGED from [:processors-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\processors-release.aar\fd77f75ac427f7173b441baac6a3aff6\AndroidManifest.xml:8:5-10:41
+MERGED from [:nativescript_geolocation:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\04965c7f62e988775cf97dfb16894d32\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_geolocation:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\04965c7f62e988775cf97dfb16894d32\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_google_places_autocomplete:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_google_places_autocomplete.aar\1dbd021f4495fc753ed24a6a08276e88\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_google_places_autocomplete:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_google_places_autocomplete.aar\1dbd021f4495fc753ed24a6a08276e88\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\a4303558489ec80158b6b60053295e40\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\a4303558489ec80158b6b60053295e40\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\conceal-1.1.3.aar\67b02cfd6e472e4319917248a65a6c3b\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\conceal-1.1.3.aar\67b02cfd6e472e4319917248a65a6c3b\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\215e8c6be3aac5f15fc1cd84425113fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\215e8c6be3aac5f15fc1cd84425113fe\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\34c384caa246d5a23f95e2e12460d206\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\34c384caa246d5a23f95e2e12460d206\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\843cf974dc42f11156ddb3073d51530a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\843cf974dc42f11156ddb3073d51530a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\639478d67015d806a1227d9f7db17e9c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\639478d67015d806a1227d9f7db17e9c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3814311944de7a20d6df15abd699166a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3814311944de7a20d6df15abd699166a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d1bff12527b9f5f6b4c95041a9fbafba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d1bff12527b9f5f6b4c95041a9fbafba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c445cc428aeb49aa95c7db07563b9de1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\c445cc428aeb49aa95c7db07563b9de1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\4536b6efc167c5ecec9c648aee5071e3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\4536b6efc167c5ecec9c648aee5071e3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\26efefdf6706652e0857cef056b42cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\26efefdf6706652e0857cef056b42cb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\a9153c2a8f793ce0e25cafe8bba40d87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\a9153c2a8f793ce0e25cafe8bba40d87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4a94dd3e1bda55d9779d7fae7f1e801c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\4a94dd3e1bda55d9779d7fae7f1e801c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\9049d4bdc75b8e1a01d662399b7f37d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\9049d4bdc75b8e1a01d662399b7f37d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61f0bc2b7cd16101bd830c1bcab8257c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61f0bc2b7cd16101bd830c1bcab8257c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\08a99f65490aed550c06e20d875012d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\08a99f65490aed550c06e20d875012d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2b35ad2d2a94a91aae64e991dc139415\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2b35ad2d2a94a91aae64e991dc139415\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cec6f654bbc1fe1f841e52dfadf979c7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cec6f654bbc1fe1f841e52dfadf979c7\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		MERGED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		MERGED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		MERGED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		MERGED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:13:5-81
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:10:5-81
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:11:5-67
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:9:5-67
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\5111c9f44086cf1713db0673b8503a40\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\5111c9f44086cf1713db0673b8503a40\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\7647c168cbee79d705d9addd1ed3123f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\7647c168cbee79d705d9addd1ed3123f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\3ff2cd66d7a30aee2e87cc45b38ff125\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\3ff2cd66d7a30aee2e87cc45b38ff125\AndroidManifest.xml:26:5-20
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:13:5-22:19
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:13:5-22:19
+MERGED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:11:5-21:19
+MERGED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:11:5-21:19
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:9:5-19:19
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:9:5-19:19
+MERGED from [:widgets-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\a4303558489ec80158b6b60053295e40\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\a4303558489ec80158b6b60053295e40\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\4536b6efc167c5ecec9c648aee5071e3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\4536b6efc167c5ecec9c648aee5071e3\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Users\mbuso\Desktop\new-app\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:14:5-68
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:11:5-68
+MERGED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:14:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\14e3eea1306d761723abc55508476b11\AndroidManifest.xml:18:13-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\3ff2cd66d7a30aee2e87cc45b38ff125\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\3ff2cd66d7a30aee2e87cc45b38ff125\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\215e8c6be3aac5f15fc1cd84425113fe\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\215e8c6be3aac5f15fc1cd84425113fe\AndroidManifest.xml:22:5-24:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\f9c24f3493b29487ac757a58b08cdb23\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\fb04955f7f368d958524b10fb7bb24fb\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\0bf251ad57148a015ca7a6312591290d\AndroidManifest.xml:20:20-65
+service#com.alexbbb.uploadservice.UploadService
+ADDED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:14:9-21:19
+	android:enabled
+		ADDED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:15:13-67
+intent-filter#action:name:org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:18:13-20:29
+action#org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:19:17-99
+	android:name
+		ADDED from [:nativescript_background_http:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_background_http.aar\a18f960e8ff4f7797bfa6a07c1e0c570\AndroidManifest.xml:19:25-96
+uses-permission#android.permission.CAMERA
+ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:9:22-62
+provider#android.support.v4.content.FileProvider
+ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:12:9-20:20
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:10:9-18:20
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:17:13-19:58
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:15:13-17:58
+MERGED from [:nativescript_social_share:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_social_share.aar\5328a80c7b7cfd7494be5b0daa4fb231\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:nativescript_camera:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_camera.aar\89ec1782de79a9e2c17102a725c95ebc\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:nativescript_geolocation:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\04965c7f62e988775cf97dfb16894d32\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:nativescript_geolocation:] C:\Users\mbuso\.gradle\caches\transforms-1\files-1.1\nativescript_geolocation.aar\04965c7f62e988775cf97dfb16894d32\AndroidManifest.xml:9:22-76
